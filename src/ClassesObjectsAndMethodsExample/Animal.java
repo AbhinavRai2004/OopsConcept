@@ -1,4 +1,4 @@
-package ClassObjectMethodExample;
+package ClassesObjectsAndMethodsExample;
 
 public class Animal {
     public void eat(){
